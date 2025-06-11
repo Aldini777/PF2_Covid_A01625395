@@ -161,4 +161,4 @@ cython_debug/
 *.csv
 tc2034_act1.1_A01625395.ipynb
 test.py
-modelos entrenados/
+ayuda.ipynb
